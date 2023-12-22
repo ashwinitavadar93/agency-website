@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Poppins&family=Roboto&display=swap'); 
+
+*{
+    box-sizing: border-box;
+    margin: 5px;
+    padding: 5px;
+    font-family: "Poppins", sans-serif;
+}
+body{
+    background-color: #faf9f6;
+    
+    
+    }
+
+#h{
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+#logo{
+
+    height: 40px;
+    /* width: 100px; */
+    /* padding-top: 0px; */
+    
+}
+
+
+ #para1{
+    float: right;
+    display: inline;
+
+
+}
+
+ #para{
+   
+ float: right; 
+ font-size: large;
+ display: block;
+ 
+ 
+ 
+}
+span
+{
+    color:blueviolet;
+}
+footer{
+    float: right; 
+    color: blue;
+}
+    
+
+
+/* }
+p{
+    display: inline-block;
+} */
+div{
+    display: inline-block
+}
+/* section{
+    display: inline-block;
+} */
